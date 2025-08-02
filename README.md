@@ -1,10 +1,17 @@
 # 👋 Hi, I'm Hassan Khaild!
 
 ## 💻 About Me
-I'm a Passionate Junior Full Stack Developer with expertise in Next.js, TypeScript, Tailwind CSS, RESTful APIs, React, Node.js, MongoDB, and MySQL. Strong problem-solving abilities and experience in building scalable, user-friendly web applications. Proficient in version control (Git/GitHub) and committed to collaborative development. Actively seeking opportunities to contribute to innovative projects and grow within a dynamic team.
+Results-driven Software Engineer & Graphic Designer with expertise in building scalable and user-
+centric web applications. Skilled in the MERN stack (Next.js, React, Node.js, MongoDB) and PHP
+frameworks including CodeIgniter, Laravel, WordPress, and Elementor. Experienced in developing
+custom ERP systems tailored to business needs, with a strong focus on modular design, performance,
+and security. Proficient in building responsive interfaces using TypeScript and creating visually
+compelling designs with Photoshop, Illustrator, and InDesign. Passionate about problem-solving, system
+architecture, and contributing to dynamic, agile-driven teams.
 ## 🚀 TECHNICAL SKILLS
-- **Front-end:** Next.js, React, TypeScript, Tailwind CSS, HTML, CSS, JavaScript
-- **Back-end:** Node.js, Express.js, RESTful APIs
+- **Front-end:** WordPress, Elementor , Next.js, React, TypeScript, Tailwind CSS, HTML, CSS, JavaScript
+- **Back-end:**  PHP, CodeIgniter, Node.js, Express.js, RESTful APIs
+- **Design Tools:** Adobe Photoshop, Illustrator, InDesign
 - **Databases:** MongoDB, MySQL
 - **Version Control:** Git, GitHub
 - **Other Tools:** Postman
@@ -18,16 +25,30 @@ Key achievements:
  Implemented a secure payment gateway using Stripe API.
 Designed a modern, fully responsive UI with Tailwind CSS.
 
-🔹 [2. Recruitment Platform](https://github.com/HassanKhalid2000/FreeLance) - A recruitment platform connecting companies with freelancers, including an admin panel for managing users and projects.
-Technologies used: Next.js, TypeScript, Tailwind CSS, Node.js, Express.js, MongoDB, RESTful API 
-Key achievements: Developed a secure authentication system using JSON Web Tokens (JWT).
-Designed an interactive dashboard for both freelancers and companies.
-
-🔹 [3. Furniture Store](https://github.com/HassanKhalid2000/Furniture) - An online furniture store with a sleek UI, allowing users to browse, add items to their cart, and complete purchases.
-Technologies used: Next.js, TypeScript, Tailwind CSS, Node.js, Express.js, MongoDB, Stripe API
-Key achievements:
- Implemented JWT-based authentication for secure user login
-Integrated a seamless checkout process with Stripe API.
+🔹 [2. Clinic ERP System (PHP CodeIgniter)](https://github.com/HassanKhalid2000/clinicSystem) - including an admin Clinic ERP System (PHP CodeIgniter)
+Designed and developed a modular ERP system for clinics using PHP CodeIgniter, aimed at optimizing
+clinical workflows and centralizing key operational tasks. The system provides secure access and
+intuitive interfaces for both administrative and medical staff.
+Core Modules:
+- Dashboard:
+A real-time overview panel displaying key metrics such as daily appointments, revenue, patient activity,
+and quick access to all modules.
+- Patients:
+Full patient lifecycle management—register new patients, view visit history, contact information, and
+medical details in a centralized profile.
+- Doctors:
+Manage doctor profiles, specialties, availability schedules, and assign doctors to appointments and
+patient cases.
+- Appointments:
+Dynamic calendar-based scheduling with time-slot management, conflict checking, and appointment
+status updates (pending, confirmed, completed).
+- Medical Records:
+Secure electronic medical records (EMR) including diagnoses, treatment notes, prescriptions, lab
+results, and attachments.
+- Billing:
+Generate and manage invoices for consultations, procedures, and services with payment tracking,
+discount handling, and printable receipts.
+- Tech Stack: PHP, CodeIgniter (MVC), MySQL, Bootstrap, jQuery, AJAX, HTML5, CSS3
 
 ## 📫 How to Reach Me?
 - 📧 Email: [hsnk71568@gmail.com]
