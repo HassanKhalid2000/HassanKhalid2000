@@ -21,7 +21,7 @@ dashboards for hospital operations.
 - Github repo : https://github.com/HassanKhalid2000/Medicare-HMS.git
 
 
-🔹 [2.Afaq Integrated Business Platform (Next.js, Node.js, MySQL, Docker, Nginx)]
+🔹 [2.Afaq Integrated Business Platform (Next.js, Node.js, MySQL, Docker, Nginx)](https://afaqinfotech.com)
 - Developed a corporate website with e-commerce and PoS modules.
 - Achieved seamless synchronization with Afaq ERP for real-time updates.
 - Optimized for SEO, performance, and responsive design.
