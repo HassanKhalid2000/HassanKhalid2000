@@ -25,7 +25,7 @@ dashboards for hospital operations.
 - Developed a corporate website with e-commerce and PoS modules.
 - Achieved seamless synchronization with Afaq ERP for real-time updates.
 - Optimized for SEO, performance, and responsive design.
-- Live Production Site: afaqinfotech.com
+- Live Production Site: https://afaqinfotech.com
 
 
 ## 📫 How to Reach Me?
